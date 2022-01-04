@@ -33,7 +33,7 @@ button {
 
   text-decoration: none;
   font-size: 25px;
-  color: #808080;
+  color: #f75394;
   transition: 0.3s;
   font-family: 'Metal';
   font-size: 22px;
@@ -64,7 +64,7 @@ body {
   z-index: 1; /* Stay on top */
   top: 0;
   left: 0;
-  background-color: ;/* Black*/
+  background-color: #808080;/* Black*/
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 60px; /* Place content 60px from the top */
   transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
